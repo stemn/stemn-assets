@@ -1,2 +1,3 @@
-# stemn-assets
-A collection of Stemn media assets
+# Stemn Assets
+
+A collection of Stemn media assets.
